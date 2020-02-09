@@ -10,6 +10,9 @@ Worth reading papers and awesome related resources on dialogue system.
 - A Survey on Dialogue Systems: Recent Advances and New Frontiers (SIGKDD Explorations 2017) [[paper]](https://arxiv.org/abs/1711.01731)
 - Research Progress of Chatbot System (Journal in Chinese: Computer Applications and Software. 计算机应用与软件 2018) [[paper]](http://www.shcas.net/jsjyup/pdf/2018/12/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
+## Dataset
+- [Chinese Medical Dialogue dataset](https://github.com/Toyhom/Chinese-medical-dialogue-data)
+
 ## Tool & Repository
 - [Rasa](https://github.com/RasaHQ/rasa)
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov)
